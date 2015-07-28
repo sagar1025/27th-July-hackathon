@@ -14,4 +14,5 @@
     <string name="login"> Email </string>
     <string name="password"> Password </string>
     <string name="title_activity_diary_entries">diary_entries</string>
+    <string name="Pass"> password </string>
 </resources>
